@@ -1,0 +1,7 @@
+{
+  "name":"Test",
+  "description":"Test profile without mesh key",
+  "port":7,
+  "data":"ffb0eb30020fd000000e10a300000010a1000000010008ddeaf1",
+  "warning":"Missing required value for Mesh Key"
+}
